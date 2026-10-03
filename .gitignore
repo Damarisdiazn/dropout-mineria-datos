@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.vscode/
+.DS_Store
+# El dataset crudo se puede volver a descargar (ver data/raw/DATA_SOURCE.md)
+data/raw/*.csv
