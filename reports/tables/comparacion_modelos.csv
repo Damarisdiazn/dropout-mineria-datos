@@ -1,0 +1,7 @@
+Escenario,Modelo,Accuracy (test),F1 macro (test),Precision macro (test),Recall macro (test),Accuracy CV-5 (media),Accuracy CV-5 (desv),F1 macro CV-5 (media),F1 macro CV-5 (desv)
+A · Solo ingreso,Árbol de decisión,0.493,0.498,0.592,0.545,0.503,0.02,0.499,0.017
+A · Solo ingreso,Random Forest,0.589,0.548,0.549,0.554,0.626,0.013,0.585,0.017
+A · Solo ingreso,Regresión logística,0.565,0.539,0.552,0.549,0.602,0.024,0.567,0.021
+B · Completo,Árbol de decisión,0.686,0.654,0.667,0.669,0.71,0.016,0.676,0.012
+B · Completo,Random Forest,0.76,0.72,0.725,0.73,0.764,0.02,0.722,0.023
+B · Completo,Regresión logística,0.721,0.683,0.687,0.694,0.747,0.017,0.705,0.016

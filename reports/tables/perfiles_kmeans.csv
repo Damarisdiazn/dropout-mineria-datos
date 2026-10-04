@@ -1,0 +1,4 @@
+cluster,Age at enrollment,Admission grade,Curricular units 1st sem (approved),Curricular units 1st sem (grade),tasa_aprob_1s,total_aprobadas,n
+0,22.12,126.97,5.32,12.75,0.86,10.53,3242
+1,25.79,126.21,0.55,2.7,0.1,0.64,927
+2,28.64,129.93,12.05,12.69,0.89,22.41,255

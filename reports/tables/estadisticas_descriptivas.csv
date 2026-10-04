@@ -1,0 +1,19 @@
+,count,mean,std,min,25%,50%,75%,max
+Previous qualification (grade),4424.0,132.61,13.19,95.0,125.0,133.1,140.0,190.0
+Admission grade,4424.0,126.98,14.48,95.0,117.9,126.1,134.8,190.0
+Age at enrollment,4424.0,23.27,7.59,17.0,19.0,20.0,25.0,70.0
+Curricular units 1st sem (credited),4424.0,0.71,2.36,0.0,0.0,0.0,0.0,20.0
+Curricular units 1st sem (enrolled),4424.0,6.27,2.48,0.0,5.0,6.0,7.0,26.0
+Curricular units 1st sem (evaluations),4424.0,8.3,4.18,0.0,6.0,8.0,10.0,45.0
+Curricular units 1st sem (approved),4424.0,4.71,3.09,0.0,3.0,5.0,6.0,26.0
+Curricular units 1st sem (grade),4424.0,10.64,4.84,0.0,11.0,12.29,13.4,18.88
+Curricular units 1st sem (without evaluations),4424.0,0.14,0.69,0.0,0.0,0.0,0.0,12.0
+Curricular units 2nd sem (credited),4424.0,0.54,1.92,0.0,0.0,0.0,0.0,19.0
+Curricular units 2nd sem (enrolled),4424.0,6.23,2.2,0.0,5.0,6.0,7.0,23.0
+Curricular units 2nd sem (evaluations),4424.0,8.06,3.95,0.0,6.0,8.0,10.0,33.0
+Curricular units 2nd sem (approved),4424.0,4.44,3.01,0.0,2.0,5.0,6.0,20.0
+Curricular units 2nd sem (grade),4424.0,10.23,5.21,0.0,10.75,12.2,13.33,18.57
+Curricular units 2nd sem (without evaluations),4424.0,0.15,0.75,0.0,0.0,0.0,0.0,12.0
+Unemployment rate,4424.0,11.57,2.66,7.6,9.4,11.1,13.9,16.2
+Inflation rate,4424.0,1.23,1.38,-0.8,0.3,1.4,2.6,3.7
+GDP,4424.0,0.0,2.27,-4.06,-1.7,0.32,1.79,3.51

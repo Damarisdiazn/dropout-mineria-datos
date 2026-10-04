@@ -1,0 +1,4 @@
+,class_weight,max_depth,min_samples_leaf,random_state,n_estimators,C,max_iter
+Árbol de decisión,balanced,6,20,42,,,
+Random Forest,balanced,,3,42,300,,
+Regresión logística,balanced,,,,,1.0,2000
